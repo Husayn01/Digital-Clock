@@ -21,6 +21,7 @@ html, body{
     color: rgb(255, 255, 255); 
 }
 #digitalClock{
+    font-family: 'orbitron';
     margin-bottom: 0.5rem;
     text-align: center;
     color: rgb(224, 238, 250); 
